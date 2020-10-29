@@ -1,5 +1,5 @@
 import React from "react"
-
+import Tetris from "../components/Tetris/Tetris.js"
 export default function Home() {
-  return <div>Hello world!</div>
+  return <Tetris className="Home">Hello world!</Tetris>
 }
