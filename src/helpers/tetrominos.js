@@ -57,7 +57,7 @@ export const TETROMINOS = {
     color: "227, 78, 78",
   },
 }
-
+// getting Random shape
 export const randomTetromino = () => {
   const tetrominos = "IJLOSTZ"
   const randTetromino =
